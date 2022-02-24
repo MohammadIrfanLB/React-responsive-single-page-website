@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import print from "../img/print.png";
+import print from "../img/print.jpg";
 import AnimatedShapes from "./AnimatedShapes";
 
 const Container = styled.div`
@@ -72,13 +72,13 @@ const Features = () => {
         </Title>
         <SubTitle>Get good designs with us</SubTitle>
         <Desc>
-          Emiway Bantai is one of India’s top rappers. Best known for his song
-          “Asli Hip Hop” from Gully Boy, his popularity soars amongst Indian
-          youth. As you can imagine, we were kicked to have the opportunity to
-          work on his branding. Hence, we decided to design a logo that has a
-          musical element ingrained in it while playing with his initials. As
-          you can see the E here represents the equalizer. The sharp edges of
-          the B reverberate the ferocity of his lyrics.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.
         </Desc>
         <Button>Learn More</Button>
       </Right>

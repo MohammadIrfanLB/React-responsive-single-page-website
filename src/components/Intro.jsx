@@ -90,6 +90,7 @@ const Right = styled.div`
 
 const Image = styled.img`
   width: 100%;
+  padding-top: 150px;
 `;
 
 const Intro = () => {

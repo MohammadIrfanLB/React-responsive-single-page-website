@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import w3 from "../img/w3.png";
+import w3 from "../img/w3.jpg";
 import MiniCard from "./MiniCard";
 import play from "../img/play.png";
-import fit from "../img/fit.mp4";
+import team from "../img/team.mp4";
 
 const Container = styled.div`
   display: flex;
@@ -112,16 +112,18 @@ const Services = () => {
     <Container>
       <Left>
         <Image open={open} src={w3} />
-        <Video open={open} autoPlay loop controls src={fit} />
+        <Video open={open} autoPlay loop controls src={team} />
       </Left>
       <Right>
         <Wrapper>
           <Title>The new design works</Title>
           <Desc>
-            Emiway Bantai is one of India’s top rappers. Best known for his song
-            “Asli Hip Hop” from Gully Boy, his popularity soars amongst Indian
-            youth. As you can imagine, we were kicked to have the opportunity to
-            work on his branding.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat. Duis aute irure dolor in
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+            pariatur.
           </Desc>
           <CardContainer>
             <MiniCard />
