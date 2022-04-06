@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c79eb6df.js",
+    "static/media/Rectangle50.png": "/static/media/Rectangle50.4959485f2041f6fbd81e.png",
+    "static/media/Team.png": "/static/media/Team.1666d2c80aaf4a068f41.png",
+    "static/media/code.png": "/static/media/code.e9006c8f5bd9fe59e8d8.png",
+    "index.html": "/index.html",
+    "main.c79eb6df.js.map": "/static/js/main.c79eb6df.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c79eb6df.js"
+  ]
+}
